@@ -11,3 +11,20 @@ This will be our first real experience in turning ideas into a playable prototyp
 
 Thanks for this opportunity ❤  
 – Team PMK
+
+# Rollic Game Jam Portfolio
+
+Merhaba 👋  
+
+Biz oyun geliştirmeye yeni başlamış, öğrenmeye hevesli bir ekibiz.  
+Henüz yayınlanmış bir oyunumuz yok, ancak *Unity* ve *Blender* üzerinde çalışarak bu Game Jam sürecinde ilk prototipimizi üretmeyi hedefliyoruz.  
+
+Amacımız;  
+- Oyun geliştirme sürecini deneyimlemek,  
+- Takım olarak üretmeyi öğrenmek,  
+- Ve en önemlisi bu süreçte eğlenmek. 🎮  
+
+Bu bizim ilk Game Jam’imiz olacak ve elimizden gelenin en iyisini ortaya koymak için sabırsızlanıyoruz.  
+Teşekkürler Rollic ekibi! ❤  
+
+— Team PMK
