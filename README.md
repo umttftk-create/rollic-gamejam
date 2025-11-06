@@ -1,9 +1,13 @@
 # rollic-gamejam
-Our first Game Jam project. We’re learning Unity and Blender and aiming to create our first playable prototype during the Rollic Game Jam.
 # Rollic Game Jam Portfolio
 
-We are a new team interested in learning game development.  
-We don’t have any published games yet, but we’re actively learning *Unity* and *Blender*.  
-Our goal for the Rollic Game Jam is to experience the full development process, from idea to prototype, and to improve our teamwork and creativity.
+Hey there 👋  
 
-Thank you for the opportunity!
+We’re a new and motivated team taking our very first steps into game development.  
+We don’t have any published projects yet, but we’re learning *Unity* and *Blender* and can’t wait to put our skills into practice during the Rollic Game Jam.  
+
+Our goal is to learn, create, and most importantly, have fun building something from scratch.  
+This will be our first real experience in turning ideas into a playable prototype, and we’re ready to give it our best!  
+
+Thanks for this opportunity ❤  
+– Team PMK
